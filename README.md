@@ -28,9 +28,6 @@ A Python script connects to the NetBox REST API and retrieves information about:
 
 The retrieved data is then exported into CSV inventory reports.
 
-## Network Topology
-
-![Waihi Mining Network Topology](images/network-topology.png)
 
 ## Network Topology
 
