@@ -1,0 +1,4 @@
+Device Name,Role,Status,Device Type
+WAIHI-ACCESS-SW01,Access Switch,Active,LAB-ACCESS-01
+WAIHI-AP01,Wireless AP,Active,LAB-AP-01
+WAIHI-CORE-SW01,Core Switch,Active,LAB-CORE-01

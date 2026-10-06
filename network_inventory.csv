@@ -1,0 +1,12 @@
+Device,Interface,Interface Type,Mode,Untagged VLAN,Tagged VLANs
+WAIHI-ACCESS-SW01,GigabitEthernet0/1,1000BASE-T (1GE),Access,20 Operations,-
+WAIHI-ACCESS-SW01,GigabitEthernet0/2,1000BASE-T (1GE),Access,20 Operations,-
+WAIHI-ACCESS-SW01,GigabitEthernet0/3,1000BASE-T (1GE),Tagged,-,"10 Management, 30 Guest-WiFi"
+WAIHI-ACCESS-SW01,GigabitEthernet0/4,1000BASE-T (1GE),Access,10 Management,-
+WAIHI-ACCESS-SW01,TenGigabitEthernet0/1,10GBASE-T (10GE),Tagged,-,"10 Management, 20 Operations, 30 Guest-WiFi"
+WAIHI-AP01,GigabitEthernet0/1,1000BASE-T (1GE),Tagged,-,"10 Management, 30 Guest-WiFi"
+WAIHI-CORE-SW01,GigabitEthernet0/1,1000BASE-T (1GE),None,-,-
+WAIHI-CORE-SW01,GigabitEthernet0/2,1000BASE-T (1GE),None,-,-
+WAIHI-CORE-SW01,GigabitEthernet0/3,1000BASE-T (1GE),None,-,-
+WAIHI-CORE-SW01,GigabitEthernet0/4,1000BASE-T (1GE),Access,10 Management,-
+WAIHI-CORE-SW01,TenGigabitEthernet0/1,10GBASE-T (10GE),Tagged,-,"10 Management, 20 Operations, 30 Guest-WiFi"
